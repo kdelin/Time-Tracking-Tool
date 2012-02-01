@@ -1,0 +1,1 @@
+﻿// Define the Packagepackage classes.view.cursor {			// Define the Class	public class Auto {				// Save a Refernece to the Cursor Name		public static const NAME:String = 'auto';			}}
